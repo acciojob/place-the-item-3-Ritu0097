@@ -1,19 +1,5 @@
-#holder{
-	display:flex;
-	justify-content:space-evenly;
-}
-.eg1{
-	border:1px solid black;
-	width:160px;
-	height:160px;
-}
-.eg2{
-	border:1px solid black;
-	width:160px;
-	height:160px;
-}
-.eg3{
-	border:1px solid black;
-	width:160px;
-	height:160px;
+#holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
